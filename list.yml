@@ -1,0 +1,4 @@
+---
+hosts: {{ dest }}
+become: true
+become_user: "root"
